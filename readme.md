@@ -2,10 +2,11 @@
 
 #### Simple API with Lumen/Laravel framework and React Native App
 
-## [Published](https://expo.io/@brenog/projects/app_parlador)
-## [Notion](https://www.notion.so/Codificar-Full-Stack-Developer-6e5763cb3de94e75b87669759b479c98)
-## [Figma](https://www.figma.com/file/Ftlc8kiZXzjtMWdIGCWQCa/Untitled?node-id=0%3A1)
-
+<div display="flex">
+  <a href="https://expo.io/@brenog/projects/app_parlador" target="_blank" />
+  <a href="https://www.notion.so/Codificar-Full-Stack-Developer-6e5763cb3de94e75b87669759b479c98" target="_blank" />
+  <a href="https://www.figma.com/file/Ftlc8kiZXzjtMWdIGCWQCa/Untitled?node-id=0%3A1" target="_blank" />
+</div>
 
 <div display="flex">
   <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891854-26345580-2c4d-11eb-8b36-9f6fe373aa55.jpeg"/>

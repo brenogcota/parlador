@@ -2,6 +2,7 @@
 
 #### Simple API with Lumen/Laravel framework and React Native App
 
+## [Published](https://expo.io/@brenog/projects/app_parlador)
 ## [Notion](https://www.notion.so/Codificar-Full-Stack-Developer-6e5763cb3de94e75b87669759b479c98)
 ## [Figma](https://www.figma.com/file/Ftlc8kiZXzjtMWdIGCWQCa/Untitled?node-id=0%3A1)
 

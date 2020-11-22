@@ -39,18 +39,18 @@ unused form validation libraries, simply by hand
 
 ### Endpoints
 
-POST      user/signup
-POST      user/signin
-
-#### Header Authorization with token is required
-
-GET       user/index
-GET       user/show
-PUT       user/update
-DELETE    user/delete
-
-GET       posts/index
-POST      posts/store
-GET       posts/show/{id}
-PUT       posts/update/{id}
-DELETE    posts/delete/{id}
+| Method   |      Route         |  Auth |
+|---------- |:-----------------:|------:|
+| GET       | user/index        |
+| GET       | user/show         |
+| PUT       | user/update       |
+| DELETE    | user/delete       |
+|---------- |:-----------------:|------:|
+| GET       | posts/index       |
+| POST      | posts/store       |
+| GET       | posts/show/{id}   |
+| PUT       | posts/update/{id} |
+| DELETE    | posts/delete/{id} |
+|---------- |:-----------------:|------:|
+| POST      | user/signup       |  YES
+| POST      | user/signin       |  YES

@@ -13,28 +13,28 @@ unused form validation libraries, simply by hand
 
 ### Dependencies
 
-> axios
-> react-native-personas-avatar
-> react-native-svg
-> react-native-vector-icons
-> styled-components
-> react-native-community/async-storag
+* axios
+* react-native-personas-avatar
+* react-native-svg
+* react-native-vector-icons
+* styled-components
+* react-native-community/async-storag
 
 
 ### how to run
 
 #### api
 
-> edit .env file
-> config local database
-> run migrations
-> run "php -S your_local_ip_address:8000 -t public" in api path to climb php server
+* edit .env file
+* config local database
+* run migrations
+* run "php -S your_local_ip_address:8000 -t public" in api path to climb php server
 
 #### app
 
-> run yarn install in app
-> edit ./src/config/constanst/uri with your local ip address
-> run yarn start
+* run yarn install in app
+* edit ./src/config/constanst/uri with your local ip address
+* run yarn start
 
 
 ### Endpoints

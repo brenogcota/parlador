@@ -61,5 +61,5 @@ unused form validation libraries, simply by hand
 | GET       | posts/show/{id}    |
 | PUT       | posts/update/{id}  |
 | DELETE    | posts/delete/{id}  |
-| POST      | user/signup        |  YES
-| POST      | user/signin        |  YES
+| POST      | user/signup        |  NO
+| POST      | user/signin        |  NO

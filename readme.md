@@ -6,13 +6,15 @@
 ## [Figma](https://www.figma.com/file/Ftlc8kiZXzjtMWdIGCWQCa/Untitled?node-id=0%3A1)
 
 
-<img src="https://user-images.githubusercontent.com/46490801/99891854-26345580-2c4d-11eb-8b36-9f6fe373aa55.jpeg" style="max-width:200px;"/>
-<img src="https://user-images.githubusercontent.com/46490801/99891855-26ccec00-2c4d-11eb-8caf-8cf971f8ee3c.jpeg" style="max-width:200px;"/>
-<img src="https://user-images.githubusercontent.com/46490801/99891848-23396500-2c4d-11eb-9109-6168123a7a51.jpeg" style="max-width:200px;"/>
-<img src="https://user-images.githubusercontent.com/46490801/99891850-246a9200-2c4d-11eb-839a-e9e9b4d80fd9.jpeg" style="max-width:200px;"/>
-<img src="https://user-images.githubusercontent.com/46490801/99891851-25032880-2c4d-11eb-9af3-8cb69eccc84c.jpeg" style="max-width:200px;"/>
-<img src="https://user-images.githubusercontent.com/46490801/99891852-259bbf00-2c4d-11eb-95c6-a3375ae6fc0f.jpeg" style="max-width:200px;"/>
-<img src="https://user-images.githubusercontent.com/46490801/99891853-259bbf00-2c4d-11eb-9d54-069484e9b089.jpeg" style="max-width:200px;"/>
+<div display="flex">
+  <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891854-26345580-2c4d-11eb-8b36-9f6fe373aa55.jpeg"/>
+  <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891855-26ccec00-2c4d-11eb-8caf-8cf971f8ee3c.jpeg"/>
+  <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891848-23396500-2c4d-11eb-9109-6168123a7a51.jpeg"/>
+  <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891850-246a9200-2c4d-11eb-839a-e9e9b4d80fd9.jpeg"/>
+  <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891851-25032880-2c4d-11eb-9af3-8cb69eccc84c.jpeg"/>
+  <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891852-259bbf00-2c4d-11eb-95c6-a3375ae6fc0f.jpeg"/>
+  <img width="250px" height="450px" src="https://user-images.githubusercontent.com/46490801/99891853-259bbf00-2c4d-11eb-9d54-069484e9b089.jpeg"/>
+</div>
 
 
 ### NOTES
